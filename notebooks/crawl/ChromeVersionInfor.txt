@@ -1,0 +1,3 @@
+Google Chrome version 124.0.6367.158
+Chrome Driver version: 124.0.6367.201
+Link download chrome driver for windows 64bit: https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.201/win64/chromedriver-win64.zip

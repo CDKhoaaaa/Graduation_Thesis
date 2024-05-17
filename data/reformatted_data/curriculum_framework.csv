@@ -1,0 +1,54 @@
+course name,course id,course,credit,Theoretical session,Lab session,total sessions
+Kỹ năng giao tiếp,1001070006,,2,30,0,30
+Dịch vụ Hành chính,1001074618,,3,45,0,45
+Công nghệ thông tin,1001074673,,3,0,90,90
+Tiếng Anh 1,1001074730,,6,60,60,120
+Toán cao cấp (CNTT),1001074619,,3,45,0,45
+Lập trình,1001074705,,3,15,60,75
+Đề án nghiên cứu (CNTT),1001074710,,3,30,30,60
+Tiếng Anh 2,1001074731,074730(a),6,60,60,120
+Giáo dục thể chất *,1001073900,,5,15,90,105
+Toán rời rạc,1001074650,,3,45,0,45
+Xây dựng hình ảnh và tác phong chuyên nghiệp,1001074704,,3,30,30,60
+Tiếng Anh 3,1001074732,074731(a),6,60,60,120
+Pháp luật đại cương,1001075850,,2,30,0,30
+Thiết kế và phát triển cơ sở dữ liệu,1001074648,,3,30,30,60
+Tiếng Anh 4,1001074733,074732(a),6,60,60,120
+Khởi nghiệp,1001075854,,2,30,0,30
+Triết học Mác-Lê Nin,1001076258,,3,45,0,45
+Kinh tế chính trị Mác - Lê nin,1001076259,,2,30,0,30
+Lập trình nâng cao,1001074620,,3,30,30,60
+Bảo mật,1001074716,,3,30,30,60
+Tiếng Anh 5,1001074734,074733(a),6,60,60,120
+Chủ nghĩa xã hội khoa học,1001076260,,2,30,0,30
+Cấu trúc dữ liệu và giải thuật,1001076269,,3,30,30,60
+Giáo dục quốc phòng *,1001073894,,8,90,30,120
+Thiết kế và phát triển ứng dụng Web,1001074724,,3,30,30,60
+Tiếng Anh 6,1001074735,074734(a),6,60,60,120
+Lịch sử Đảng Cộng Sản Việt Nam,1001076261,,2,30,0,30
+Công nghệ phần mềm,1001076270,,3,30,30,60
+Kỹ năng giao tiếp (HP2),1001070007,070006(a),2,30,0,30
+Hệ thống thông tin doanh nghiệp (CNTT),1001074629,,3,45,0,45
+Hệ điều hành,1001074635,,3,30,30,60
+Tư tưởng Hồ Chí Minh,1001076262,,2,30,0,30
+Quản lý dự án (CNTT),1001076271,,3,30,30,60
+Lập trình giao diện ứng dụng,1001074622,,3,15,60,75
+Kinh doanh thông minh (CNTT),1001074630,,3,45,0,45
+Hệ thống mạng,1001074700,,3,30,30,60
+Lập trình thiết bị di động,1001074706,,3,30,30,60
+Kiểm thử Phần mềm,1001076272,,3,30,30,60
+Phát triển ứng dụng,1001074621,,3,30,30,60
+Công nghệ đám mây,1001074636,,3,30,30,60
+Kiến trúc Phần mềm,1001076273,,3,30,30,60
+Mô hình phát triển phần mềm Agile,1001076274,,3,30,30,60
+Quản lý hệ thống dữ liệu (CNTT),1001074649,,3,30,30,60
+Chiến lược thương mại điện tử,1001074651,,3,45,0,45
+Hệ thống nhúng thông minh và IoT,1001076275,,3,45,0,45
+Thực tập,1001076276,,5,30,90,120
+Đồ án tốt nghiệp,1001076277,,7,30,150,180
+Chuyên đề tốt nghiệp Công nghệ phần mềm 1,1001077346,"077349,077347 (c)",3,15,60,75
+Chuyên đề tốt nghiệp Công nghệ phần mềm 3,1001077347,,2,15,30,45
+Chuyên đề tốt nghiệp Công nghệ phần mềm 2,1001077948,"077346,077347 (c)",2,30,0,30
+Chuyên đề tốt nghiệp Khoa học máy tính 1,1001077350,"077348,077351 (c)",3,15,60,75
+Chuyên đề tốt nghiệp Khoa học máy tính 3,1001077351,"077350,077348 (c)",2,15,30,45
+Chuyên đề tốt nghiệp Khoa học máy tính 2,1001077949,,2,30,0,30
