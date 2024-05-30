@@ -1,0 +1,36 @@
+1. Thời gian huấn luyện và dự đoán
+
+thời gian huấn luyện
+LR: 0.0040s
+RF: 0.2074s
+
+thời gian dự đoán
+LR: 0.0010s
+RF: 0.0040s
+
+=> LR chạy nhanh hơn trong cả 2 quá trình huấn luyện và dự đoán
+
+2. Đo độ sử dụng bộ nhớ
+
+- LR
+Memory usage before: 187.2890625 MB
+Memory usage after: 187.2890625 MB
+Memory usage:  0.0000 MB
+
+- RF
+Memory before used by Random Forest: 183.87890625 MB
+Memory after used by Random Forest: 183.8828125 MB
+Memory used by Random Forest:  0.0039 MB
+
+=> Có thể thấy rằng tuy RF có sử dụng một lượng bộ nhớ là 0.0039MB. Song, đó là một lượng khá nhỏ và không đáng kể 
+
+3. Đo độ ổn định với cross-validation
+
+- LR
+Điểm số trung bình của cross-validation rơi vào khoảng 0.996 và độ lệch chuẩn nhỏ khoảng 0.005 => Cho thấy mô hình có khả năng dự đoán tốt
+
+- RF
+Điểm số trung bình của cross-validation rơi vào khoảng 0.982 và độ lệch chuẩn đáng kể khoảng 0.018 
+=> Cho thấy tuy mô hình cũng có một hiệu suất tốt, tuy nhiên có thể dễ dàng bị overfitting trên tập dữ liệu huấn luyện
+
+4. Learning Curve
